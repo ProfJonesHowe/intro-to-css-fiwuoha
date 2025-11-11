@@ -9,7 +9,7 @@ html, body {
   padding: 1rem;
 }
 
-header {
+head {
   text-align: center;
 }
 
@@ -20,6 +20,7 @@ figure {
 input, textarea {
   padding: 0.5rem;
   margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
   border: 1px solid #ccc;
   border-radius: 4px;
 }
@@ -27,6 +28,7 @@ input, textarea {
 form {
   display: flex;
   flex-direction: column;
+  
 }
 
 @media (min-width: 700px) {
