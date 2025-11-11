@@ -6,7 +6,7 @@ html, body {
   background: #f8f9fa;
   max-width: 72ch;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 head {
@@ -19,8 +19,8 @@ figure {
 
 input, textarea {
   padding: 0.5rem;
-  margin-top: 0.25rem;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
 }
