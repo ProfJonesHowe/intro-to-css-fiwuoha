@@ -1,5 +1,6 @@
 {box-sizing: border-box; }
 html, body {
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   color: #222;
